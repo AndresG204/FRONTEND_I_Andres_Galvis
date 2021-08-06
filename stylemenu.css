@@ -1,0 +1,80 @@
+.primeraCaja{
+    width: 633px;
+    height: 960px;
+    border: solid 1px #efa94a;
+    position: absolute;
+    top: 0px;
+    background-color: #efa94a;
+}
+.segundaCaja{
+    width: 633px;
+    height: 478px;
+    border: solid 1px #ff7514;
+    position: absolute;
+    top: 0px;
+    left: 641px;
+    background-color: #ff7514;
+}
+.terceraCaja{
+    width: 633px;
+    height: 480px;
+    border: solid 1px #bdecb6;
+    position: absolute;
+    top: 480px;
+    left: 641px;
+    background-color: #bdecb6;
+}
+.cuartaCaja{
+    width: 316px;
+    height: 320px;
+    border: solid 1px 	#00aae4;
+    position: absolute;
+    top: 0px;
+    left: 1276px;
+    background-color: 	#00aae4;
+}
+.quintaCaja{
+    width: 316px;
+    height: 320px;
+    border: solid 1px   #454545;
+    position: absolute;
+    top: 322px;
+    left: 1276px;
+    background-color: #454545;
+}
+.sextaCaja{
+    width: 316px;
+    height: 316px;
+    border: solid 1px teal;
+    position: absolute;
+    top: 644px;
+    left: 1276px;
+    background-color: teal;   
+}
+.septimaCaja{
+    width: 316px;
+    height: 320px;
+    border: solid 1px #3b5998;
+    position: absolute;
+    top: 0px;
+    left: 1594px;
+    background-color: #3b5998;
+}
+.octavaCaja{
+    width: 316px;
+    height: 320px;
+    border: solid 1px darkblue;
+    position: absolute;
+    top: 322px;
+    left: 1594px;
+    background-color: darkblue;
+}
+.novenaCaja{
+    width: 316px;
+    height: 316px;
+    border: solid 1px yellowgreen;
+    position: absolute;
+    top: 644px;
+    left: 1594px;
+    background-color: yellowgreen;
+}
