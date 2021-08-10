@@ -1,0 +1,118 @@
+/*--------------------header-----------*/
+.cajaPadre1{
+    position: relative;
+    top: 0px;
+    display: flex;
+    background-color: #222222;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+
+}
+#imagenLogo{
+    margin: 10px 20px;
+}
+#menuObsiones ul{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 20px;
+
+}
+#menuObsiones ul li{
+    padding: 2px;
+    margin: 5px;
+}
+#menuObsiones ul li a{
+    text-decoration: none;
+    color: #F3F3F3;
+}
+/*--------------body--------------*/
+body{
+    background-color: #E5E5E5;
+}
+.cajaPadre2{
+    display: flex;
+    height: 694px;
+    justify-content: center;
+    align-items: center;
+}
+#subCaja1{
+    display: flex;
+    width: 800px;
+    height: 550px;
+    margin: 0px 20px;
+    background-image: url('imgh/delivery.jpg');
+    background-size: cover;
+    border-radius: 15px;
+}
+#delivery1{
+    font-size: 40px;
+    color: #FC200C;
+    margin: 0px 10px;
+}
+#delivery2{
+    font-size: 40px;
+    color: #FFFFFF;
+    margin: 0px 10px;
+}
+#subCaja2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 550px;
+    margin: 0px 20px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    justify-content: space-around;
+
+}
+#sub2_1{
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    color: #FC200C;
+}
+#sub2_2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 20px;
+}
+#sub2_2 ol{
+    font-weight: bold;
+    text-align: left;
+}
+#sub2_3{
+    width: 200;
+    height: 230;
+}
+/*-----------foter----------------*/
+.cajaPadre3{
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    background-color: #222222;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+
+}
+#imagenLogo{
+    margin: 10px 20px;
+}
+#menuObsiones2 ul{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20px;
+
+}
+#menuObsiones2 ul li{
+    padding: 2px;
+    margin: 5px;
+}
+#menuObsiones2 ul li a{
+    text-decoration: none;
+    color: #F3F3F3;
+}
